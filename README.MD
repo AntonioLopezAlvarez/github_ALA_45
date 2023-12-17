@@ -1,6 +1,6 @@
 # Resumen de la actividad 7.0 de base de datos (Actividad Individual)
 Actividad realizada por el equipo  <span style="color:brown">**BBDD Group Team**</span> que está compuesto por:
-- *Isidoro Nevares Martín*
+- *ALA* 18/12/2023
 - *A B C*
 - *D E F*
 - *G H I*
